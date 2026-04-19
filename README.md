@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm pursuing the master degree now in Japan.
+I'm now pursuing my master degree in Japan.
 
-Currently interested in SwiftUI and Robot.
+Currently interested in iOS development and Robot.
 
 More information can refer to my website😊:
 
@@ -10,6 +10,4 @@ More information can refer to my website😊:
 
 ---
 
-![Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
+![Stats](./profile/stats.svg) ![Top Languages](./profile/top-langs.svg)
