@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Yankai 👋
 
-I'm now pursuing my master degree in Japan.
+M.S. candidate at **The University of Tokyo**, Suzumura Lab.
 
-Currently interested in iOS development and Robot.
+Building [KotobaLab](https://github.com/shiinayane/KotobaLab) & 
+Researching VLA models & human-robot collaboration.
 
-More information can refer to my website😊:
+More information can refer to my website 😊:
 
-[www.shiinayane.com](https://www.shiinayane.com)
+[shiinayane.com](https://www.shiinayane.com)
 
 ---
 
