@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent
@@ -24,11 +24,26 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=transparent&size_weight=0.5&count_weight=0.5&hide=html,css
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=KotobaLab
+          path: profile/pin-stats-organization-github-readme-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate wakatime card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: wakatime
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=transparent
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
