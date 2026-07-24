@@ -1,12 +1,41 @@
-## Hi, I'm Yankai 👋
+```swift
+struct Yankai: Developer {
+    let name = "Yankai Wang"
+    let location = "Tokyo, Japan"
 
-Master's student at **The University of Tokyo**, Suzumura Lab.
+    let education = Education(
+        status: "Master's student",
+        university: "The University of Tokyo",
+        laboratory: "Suzumura Lab"
+    )
 
-I love building apps for Apple platforms, including [KotobaLab](https://github.com/shiinayane/KotobaLab) and [BiliKit-Mac](https://github.com/shiinayane/BiliKit-Mac).
+    let languages = ["Chinese", "Japanese", "English"]
 
-My research focuses on vision-language-action models and human–robot collaboration. I’m currently working on [LabMate](https://github.com/shiinayane/LabMate).
+    let interests = [
+        "Apple Platform Development",
+        "AI-Native Software Engineering",
+        "Human-Robot Collaboration"
+    ]
+}
 
-Learn more about me at [shiinayane.com](https://www.shiinayane.com) 😊
+print(Yankai())
+```
+
+[▶ Run this profile on SwiftFiddle](https://swiftfiddle.com/shn4gthacfckbagbppkgmrv32i)
+
+---
+
+### Projects
+
+- [KotobaLab](https://github.com/shiinayane/KotobaLab) - A Japanese learning app for Apple platforms
+
+- [BiliKit-Mac](https://github.com/shiinayane/BiliKit-Mac) - A native macOS video client
+
+- [LabMate](https://github.com/shiinayane/LabMate) - Research on VLA models and human–robot collaboration
+
+### More about me
+
+[shiinayane.com](https://www.shiinayane.com/)
 
 ---
 
