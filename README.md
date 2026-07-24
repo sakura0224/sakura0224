@@ -1,14 +1,13 @@
-## Hi there, I'm Yankai 👋
+## Hi, I'm Yankai 👋
 
-M.S. candidate at **The University of Tokyo**, Suzumura Lab.
+Master's student at **The University of Tokyo**, Suzumura Lab.
 
-Building [KotobaLab](https://github.com/shiinayane/KotobaLab) & 
-Researching VLA models & human-robot collaboration.
+I love building apps for Apple platforms, including [KotobaLab](https://github.com/shiinayane/KotobaLab) and [BiliKit-Mac](https://github.com/shiinayane/BiliKit-Mac).
 
-More information can refer to my website 😊:
+My research focuses on vision-language-action models and human–robot collaboration. I’m currently working on [LabMate](https://github.com/shiinayane/LabMate).
 
-[shiinayane.com](https://www.shiinayane.com)
+Learn more about me at [shiinayane.com](https://www.shiinayane.com) 😊
 
 ---
 
-![Stats](./profile/stats.svg) ![Top Languages](./profile/top-langs.svg)
+![Top Languages](./profile/top-langs.svg)
